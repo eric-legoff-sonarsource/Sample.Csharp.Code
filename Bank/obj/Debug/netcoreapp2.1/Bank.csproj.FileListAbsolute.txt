@@ -1,0 +1,11 @@
+C:\Users\elegoff\repo-git\Sample.Csharp.Code\Bank\bin\Debug\netcoreapp2.1\Bank.deps.json
+C:\Users\elegoff\repo-git\Sample.Csharp.Code\Bank\bin\Debug\netcoreapp2.1\Bank.runtimeconfig.json
+C:\Users\elegoff\repo-git\Sample.Csharp.Code\Bank\bin\Debug\netcoreapp2.1\Bank.runtimeconfig.dev.json
+C:\Users\elegoff\repo-git\Sample.Csharp.Code\Bank\bin\Debug\netcoreapp2.1\Bank.dll
+C:\Users\elegoff\repo-git\Sample.Csharp.Code\Bank\bin\Debug\netcoreapp2.1\Bank.pdb
+C:\Users\elegoff\repo-git\Sample.Csharp.Code\Bank\obj\Debug\netcoreapp2.1\Bank.csprojAssemblyReference.cache
+C:\Users\elegoff\repo-git\Sample.Csharp.Code\Bank\obj\Debug\netcoreapp2.1\Bank.csproj.CoreCompileInputs.cache
+C:\Users\elegoff\repo-git\Sample.Csharp.Code\Bank\obj\Debug\netcoreapp2.1\Bank.AssemblyInfoInputs.cache
+C:\Users\elegoff\repo-git\Sample.Csharp.Code\Bank\obj\Debug\netcoreapp2.1\Bank.AssemblyInfo.cs
+C:\Users\elegoff\repo-git\Sample.Csharp.Code\Bank\obj\Debug\netcoreapp2.1\Bank.dll
+C:\Users\elegoff\repo-git\Sample.Csharp.Code\Bank\obj\Debug\netcoreapp2.1\Bank.pdb
